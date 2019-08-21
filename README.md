@@ -13,6 +13,7 @@ Our code will demonstrate the different ways it is possible to calculate the val
 
 ##Getting help
 
+nice!
 
 ## Contributors
 
